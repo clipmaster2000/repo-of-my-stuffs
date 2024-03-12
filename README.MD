@@ -1,8 +1,8 @@
-## Welcome to my repo!#
+## Welcome to my repo!
 
 This could contain video files a little stranger, like this:
 
-<img src="https://cdn.discordapp.com/attachments/679489631452266498/1217111099497779390/image.png" align="center"></img>
+<img src="https://github.com/clipmaster2000/repo-of-my-stuffs/blob/main/readme_image.png" align="center"></img>
 
 It has two video tracks (and two audio tracks offscreen)
 
